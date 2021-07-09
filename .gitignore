@@ -1,0 +1,10 @@
+.DS_Store
+.idea/
+.idea/*
+.vscode
+*.sublime*
+npm-debug.*
+
+Game_of_Jess.zip
+Образец.jpg
+отзывы.jpg
